@@ -5,6 +5,8 @@
 Exporter that makes possible scrap data from Fujitsu RX300 servers. Collects
 data regarding power usage and temperature.
 
+![print](print.jpg)
+
 # Configuration
 
 This exporter is intended to run as a docker container using the following
