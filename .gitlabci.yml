@@ -1,7 +1,2 @@
-build:
-  stage: build
-  image: golang
-  script:
-    - go get
-    - go build
-    - ls -lhR
+include:
+  template: Docker.gitlab-ci.yml
