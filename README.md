@@ -1,7 +1,6 @@
 # Prometheus exporter for Fujitsu RX300 hardware
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/strm/prometheus-exporter-fujitsu.svg?style=plastic)](https://hub.docker.com/r/strm/prometheus-exporter-fujitsu/)
-![License](https://img.shields.io/badge/License-GPL-blue.svg?style=plastic)
 
 Exporter that makes possible scrap data from Fujitsu RX300 servers. Collects
 data regarding power usage and temperature.
