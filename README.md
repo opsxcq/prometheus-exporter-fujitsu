@@ -37,6 +37,6 @@ bellow:
 ```
   - job_name: 'fujitsu'
     static_configs:
-      - targets: ['prometheus-exporter-fujitsu']
+      - targets: ['prometheus-exporter-fujitsu:9900']
 ```
 
