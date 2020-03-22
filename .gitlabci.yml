@@ -1,0 +1,7 @@
+build:
+  stage: build
+  image: golang
+  script:
+    - go get
+    - go build
+    - ls -lhR
